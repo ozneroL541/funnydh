@@ -1,4 +1,4 @@
-<a href="https://github.com/ozneroL541/FunnyDH/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/ozneroL541/FunnyDH?color=2b9348" alt="License"/></a>
+<a href="https://github.com/ozneroL541/funnydh/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/ozneroL541/funnydh?color=2b9348" alt="License"/></a>
 
 # Funny Diffie-Hellman
 Funny Diffie-Hellman is an easy way to generate a common key between two entities.
@@ -9,7 +9,7 @@ These modules are not safe. The algorithm implementation is purposely not secure
 This program requires **python3** and **pyCryptoDome** to be compiled or to be executed on the fly.
 
 ## Download
-Find the latest realease on <https://github.com/ozneroL541/FunnyDH/releases> and download the executable according to your Operating System.
+Find the latest realease on <https://github.com/ozneroL541/funnydh/releases> and download the executable according to your Operating System.
 
 ## How to use
 On Linux or MacOS execute <code>./main.bin</code>.
